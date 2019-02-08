@@ -1,2 +1,2 @@
 # pass_unzip
-zip file password cracker
+it's a dictionary brute force script for zip files with that are password protected
